@@ -1,27 +1,28 @@
 # Mohamed Fhafah
 
-Cybersecurity-focused software engineer building secure web platforms, automation tooling, and resilient systems.
+Master 2 student in cybersecurity (Reliability and Cybersecurity, SecNumEdu-labelled) at Aix-Marseille University, Marseille.
+**Looking for a 6-month end-of-studies internship (PFE) from February/March 2027.**
 
-- Master 1 Informatique (Fiabilite & Securite) student at Aix-Marseille Universite
-- Interests: application security, secure web engineering, network automation, and DFIR-oriented tooling
-- Languages: Arabic, French, English
-- Currently open to internships and junior cybersecurity or software engineering roles
+- **IAM / PAM**: SAML 2.0 SSO and SCIM provisioning on Entra ID, ABAC, governance of non-human accounts (PAM: basics)
+- **Security audit / GRC**: ISO 27001 / 27002 gap analysis, maturity assessment, remediation roadmaps
+- **Active Directory pentest**: Hack The Box (Pro Hacker, 36 machines, 5 Fortresses, public profile of September 2026), BloodHound, Impacket, Certipy
 
-## Selected Work
+Portfolio, CV (FR / EN) and details: **https://www.mohamedfhafah.dev**
 
-- [Tanger Alliance Security Awareness Portal](https://github.com/mohamedfhafah/tanger-alliance-sensibilisation-portal): Flask platform for awareness training, phishing simulations, and progress tracking.
-- [Robinhood Bug Bounty Starter](https://github.com/mohamedfhafah/robinhood-bounty-starter): research workflow for compliant reconnaissance, scope validation, and reporting.
-- [CROUS Monitor](https://github.com/mohamedfhafah/crous-monitor): automation service for tracking housing listings and sending notifications.
-- [TinAMU](https://github.com/mohamedfhafah/tinamu): full-stack university social platform prototype with Flask, React, and real-time messaging.
-- [Supply-Chain Security Lab](https://github.com/mohamedfhafah/supply-chain-security-lab): Java security engineering lab covering SBOMs, dependency analysis, and test coverage.
-- [Personal Website](https://github.com/mohamedfhafah/personal-website): portfolio site focused on cybersecurity, software engineering, and multilingual presentation.
+*FR : étudiant en M2 cybersécurité à Aix-Marseille Université, je recherche un stage de fin d'études de 6 mois à partir de février/mars 2027 (IAM/PAM, audit de sécurité/GRC, pentest Active Directory).*
 
-## Approach
+## Selected public work
 
-I like projects that sit at the intersection of security, product thinking, and implementation depth: threat-aware web apps, practical automation, and systems that stay understandable under pressure.
+- [Supply-Chain Security Lab](https://github.com/mohamedfhafah/supply-chain-security-lab): CycloneDX SBOM and dependency scanners compared side by side (course lab).
+- [SecureSecret](https://github.com/mohamedfhafah/securesecret): secrets management lab, from plaintext to hashing to HashiCorp Vault, with CI secret detection (course lab).
+- [Sherlock DFIR Helpers](https://github.com/mohamedfhafah/sherlock-dfir-helpers): Python helpers for NTFS MFT parsing and disk-image string search.
+- [Bug Bounty Starter Kit](https://github.com/mohamedfhafah/robinhood-bounty-starter): scope checks, recon automation and report templates (tooling only, no confirmed finding).
+- [Security Awareness Platform](https://github.com/mohamedfhafah/tanger-alliance-sensibilisation-portal): Flask platform with training, quizzes and phishing simulation, built after an internship audit.
+- [TinAMU](https://github.com/mohamedfhafah/tinamu): university matching and messaging platform, team of four (my part: real-time messaging, search, tests).
+- [MangaLab](https://github.com/mohamedfhafah/mangalab): full-stack SaaS with Stripe billing and a Gemini / Vertex AI pipeline.
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/mohamed-fhafah](https://www.linkedin.com/in/mohamed-fhafah)
 - Email: [mohamedfhafah975@gmail.com](mailto:mohamedfhafah975@gmail.com)
-- LinkedIn: [linkedin.com/in/mohamedfhafah](https://www.linkedin.com/in/mohamedfhafah)
-- Portfolio: [personal-website](https://github.com/mohamedfhafah/personal-website)
+- Hack The Box: [public profile](https://app.hackthebox.com/public/users/2771083)
